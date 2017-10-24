@@ -1,0 +1,14 @@
+
+This is my attempt at the Titanic: Machine Learning From Disaster challenge on Kaggle.com
+link: https://www.kaggle.com/c/titanic
+My purpose was to familiarize myself with data science and popular Python libraires for plotting, data manipulation,
+and machine learning.
+
+You can access my submissions here:
+https://www.kaggle.com/c/titanic/submissions?sortBy=date&group=all&page=1
+
+So far, my best score is a 76.55%
+
+Next steps:
+Experiment with more in-depth feature engineering, classifier selection and tuning, and Ensembling to achieve a higher score.
+
