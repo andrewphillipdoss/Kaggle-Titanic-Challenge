@@ -7,6 +7,11 @@ and machine learning.
 You can access my submissions here:
 https://www.kaggle.com/c/titanic/submissions?sortBy=date&group=all&page=1
 
+Method:
+Used Binary Classification with sklearn's Support Vector Classifier. 
+Estimated Age for NaN values using the Title in the passenger's name. Broke Age into Age groups.  
+Created a binary isAlone Feature based off of Parch and SibSp. Features were: AgeBand, Sex, PClass, and isAlone. 
+
 So far, my best score is a 76.55%
 
 Next steps:
